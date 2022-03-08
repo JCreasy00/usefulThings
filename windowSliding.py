@@ -60,7 +60,7 @@ arr = toInt(arrayInput) # the list we are performing the alg on
 slide = 4 # amount of numbers that we are summing together
 
 # calling our algorithm
-print(maxSum(arr,13))
+print(maxSum(arr,slide))
 
 
 
