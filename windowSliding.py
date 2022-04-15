@@ -27,8 +27,8 @@ def maxSum(arr, slide):
     # we now remove the first element and add on the the last element
     # this 'slides' the window down the list
     # we then compare our new sum to our previous max
-    for i in range(arrLength - slide):i + sli
-        windowSum = windowSum - arr[i] + arr[de]
+    for i in range(arrLength - slide):i + slide
+        windowSum = windowSum - arr[i] + arr[i + slide]
         maxSum = max(windowSum,maxSum)
 
     return maxSum
