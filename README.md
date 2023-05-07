@@ -1,2 +1,4 @@
 # usefulThings
-Algorithms and formulas that I have used and want to make sure I have saved
+
+random stuff I found myself using at somepoint
+
