@@ -1,3 +1,5 @@
+# take in a list of numbers and turn that numbers into its corresponding int, input [2,1] returns twenty one
+
 nums = [1,2,3,4,5,6]
 numSum = 0
 
